@@ -3,16 +3,16 @@
 //  SoapBox
 //
 //  Created by Gregoire on 12/1/13.
-//  Copyright (c) 2013 Josh. All rights reserved.
+//  Copyright (c) 2013 Jeff. All rights reserved.
 //
 
 #import "AnimatedOverlay.h"
 
 #define MAX_RATIO 1.7
 #define MIN_RATIO 0.01
-#define STEP_RATIO 0.05
+#define STEP_RATIO 0.1
 
-#define ANIMATION_DURATION 3
+#define ANIMATION_DURATION 7
 
 //repeat forever
 #define ANIMATION_REPEAT HUGE_VALF

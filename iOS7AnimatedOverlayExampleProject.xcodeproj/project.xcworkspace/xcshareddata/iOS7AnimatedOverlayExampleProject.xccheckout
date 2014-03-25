@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42F90372-FDA8-4BA6-A2C6-DEAECE129DD8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS7AnimatedOverlayExampleProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F682F1BF-380D-425C-93D8-B0AC0C89978F</key>
+		<string>https://github.com/jhurray/iOS7AnimatedMapOverlay.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS7AnimatedOverlayExampleProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F682F1BF-380D-425C-93D8-B0AC0C89978F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jhurray/iOS7AnimatedMapOverlay.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F682F1BF-380D-425C-93D8-B0AC0C89978F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F682F1BF-380D-425C-93D8-B0AC0C89978F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS7AnimatedMapOverlay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
